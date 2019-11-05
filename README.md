@@ -6,3 +6,6 @@
 
 -OpenAIGym
 > $ pip install gym
+
+-PyTorch
+> $ pip3 install torch torchvision
