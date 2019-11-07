@@ -17,5 +17,5 @@
 3. Unzip the downloaded mujoco200 directory into ~/.mujoco/mujoco200, and place your license key (the mjkey.txt file from your email) at ~/.mujoco/mjkey.txt.
 > $ pip3 install -U 'mujoco-py<2.1,>=2.0'
 
-- To save simulation videos
+-To save simulation videos
 > #sudo apt-get install ffmpeg
